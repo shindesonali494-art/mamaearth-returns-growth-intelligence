@@ -1,0 +1,8 @@
+Situation
+Mamaearth's cleaned order data shows revenue of ₹97,358.30 across the verified cleaned order base. Payment behavior provides a clear operational signal: COD has a 44.4% return rate, compared with 14.7% for CARD and 18.9% for UPI.
+
+Complication
+The concentration is strongest in COD Tier-2 cities, where the return rate reaches 54.5%. Data quality also matters: the raw revenue was ₹99,860.20, while the cleaned revenue is ₹97,358.30; the ₹2,501.90 reconciliation difference is driven by the five duplicate orders removed during cleaning. Time-series interpretation also requires the bulk-order outliers to be flagged: January appeared at ₹29,582.10, but its corrected value is ₹11,637.10.
+
+Resolution
+Regional operations and finance should use the verified cleaned figures as the reporting base, focus investigation on COD Tier-2 segments, and preserve the duplicate and outlier controls in the pipeline. After the outlier correction, 2026-03 is the true peak month at ₹20,318.90. These actions keep operational decisions tied to the computed analysis layer rather than raw, duplicated or outlier-inflated data.
